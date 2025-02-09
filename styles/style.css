@@ -27,7 +27,7 @@
 /* Edição do Conteiner Principal */
 body {
     box-sizing: border-box;
-    background-image: url(/Projetos/Portfolio/assets/backgrond-1.jpg);
+    background-image: url(assets/backgrond-1.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -132,7 +132,6 @@ body {
 
 .apresentacao__imagem {
     width: 50%;
-    /* filter: opacity(80%); */
 }
 /* Bloco Footer */
 .rodape {
