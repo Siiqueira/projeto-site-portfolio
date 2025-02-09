@@ -1,9 +1,21 @@
-<body>
-  <header>
-    <h1 class="rodape"> Desenvolvido por Ellan Alves</h1>
-  </header>
-    <main class="apresentacao">
-             <img class="apresentacao__imagem" src="./assets/Designer.jpeg" alt="Imagem_principal" width="488" heidth="550">
-    </main>
-</body>
-</html>
+```
+
+# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+
+![image]()
+
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Feito por:
+
+### Ellan Alves
+
+### Linkedin: https://www.linkedin.com/in/ellanalves
+
+```
