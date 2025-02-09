@@ -1,8 +1,6 @@
-```
-
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image]()
+![image](assets/Tela-site.png)
 
 ## Ferramentas utilizadas:
 
@@ -17,5 +15,3 @@
 ### Ellan Alves
 
 ### Linkedin: https://www.linkedin.com/in/ellanalves
-
-```
