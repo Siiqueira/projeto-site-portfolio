@@ -14,4 +14,4 @@
 
 ### Ellan Alves
 
-### Linkedin: https://www.linkedin.com/in/ellanalves
+### Linkedin: https://www.linkedin.com/in/ella-nalves-dados
